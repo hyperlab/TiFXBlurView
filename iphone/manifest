@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiFXBlurView
+author: Jonatan Lundin
+license: Specify your license
+copyright: Copyright (c) 2014 by Hyperlab AB
+
+# these should not be edited
+name: TiFXBlurView
+moduleid: hl.fxblurview
+guid: 977be9d5-5e83-4a79-a62f-9445c7f24e20
+platform: iphone
+minsdk: 3.4.1.GA
